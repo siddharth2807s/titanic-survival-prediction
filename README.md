@@ -151,7 +151,6 @@ Further analysis included:
 ## Files
 
 - `titanic_ml.ipynb` – Complete machine learning notebook
-- `titanic_ml.pdf` – Exported project report
 - `train.csv` – Dataset used for training and evaluation
 
 ---
